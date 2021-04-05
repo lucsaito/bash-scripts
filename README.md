@@ -1,5 +1,7 @@
 # bash-scripts
-A collection of simple bash scripts written by me.
+<img src="images/icon.png" width="188" height="80" />
+
+A collection of simple bash scripts.
 
 ## Basic
 1. [Hello, world!](scripts/hello-world.sh): It simply prints "Hello, world!" in the terminal
