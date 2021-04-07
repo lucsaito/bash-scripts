@@ -9,4 +9,5 @@ A collection of simple bash scripts.
 3. [Simple calculator](scripts/simplecalculator.sh): A simple calculator of two numbers
 
 ## Functions
-1. [What day is today?](scripts/what_day_today.sh): It prints which day of the week is today
+1. [What day is today?](scripts/what-day-today.sh): It prints which day of the week is today
+2. [Square a number](scripts/squarenumber.sh): A simple function that squares an integer
