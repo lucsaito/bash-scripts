@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 # Lucas Saito, 2020/04/04
 # This is a basic calculator.
 # It can perform addition, subtraction, multiplication
