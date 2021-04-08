@@ -11,3 +11,6 @@ A collection of simple bash scripts.
 ## Functions
 1. [What day is today?](scripts/what-day-today.sh): It prints which day of the week is today
 2. [Square a number](scripts/squarenumber.sh): A simple function that squares an integer
+
+## $RANDOM
+1. [Guess number](scripts/guess-number-game.sh): User should guess a number from 1 to 100
