@@ -14,3 +14,7 @@ A collection of simple bash scripts.
 
 ## $RANDOM
 1. [Guess number](scripts/guess-number-game.sh): User should guess a number from 1 to 100
+
+## Reading files
+1. [File reader](scripts/read-line-by-line.sh): The script prints the file content line-by-line
+2. [Multiple files reader](scripts/read-files.sh): Prints the content of all files given by arguments
