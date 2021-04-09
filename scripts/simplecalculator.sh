@@ -1,5 +1,5 @@
 #!/bin/bash
-# Lucas Saito, 2020/04/04
+# Lucas Saito, 2021/04/04
 # This is a basic calculator.
 # It can perform addition, subtraction, multiplication
 # and division of two number inputted by the user.
