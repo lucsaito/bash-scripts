@@ -8,13 +8,12 @@
 
 if [[ $# -eq 0 ]]; then
 	echo "[read-lines]: No arguments were given"
-	exit 0
+	exit 1
 else
 	counter=1
 	for file in $@; do
 		echo "[read-lines]: Reading file [$counter/$#]: $file"
 		while read line; do
-
 			echo $line
 		done < $file
 		counter=$((counter+1))
